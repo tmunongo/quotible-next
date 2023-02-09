@@ -1,6 +1,6 @@
 # NextJS and GraphQL with Prisma ORM Starter Template
 
-A ready-to-use starter template for building modern web applications with NextJS, GraphQL, and Prisma ORM.
+A ready-to-use starter template for building modern web applications with NextJS, GraphQL, MongoDB and Prisma ORM.
 
 ## Features
 
@@ -15,10 +15,13 @@ A ready-to-use starter template for building modern web applications with NextJS
 ## Getting Started
 
 1. Clone this repository
+
    `git clone https://github.com/tmunongo/quotible-next.git`
-   `cd nextjs-graphql-prisma-starter`
+
+   `cd quotible-next`
 
 2. Install dependencies
+
    `npm install`
 
 3. Set up your Prisma database
