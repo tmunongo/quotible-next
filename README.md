@@ -15,19 +15,22 @@ A ready-to-use starter template for building modern web applications with NextJS
 ## Getting Started
 
 1. Clone this repository
+
    `git clone https://github.com/tmunongo/quotible-next.git`
+
    `cd nextjs-graphql-prisma-starter`
 
 2. Install dependencies
+
    `npm install`
 
 3. Set up your Prisma database
 
-`npm run prisma:generate`
+   `npm run prisma:generate`
 
 4. Start the development server
 
-`npm run dev`
+   `npm run dev`
 
 The application should be running on `http://localhost:3000`.
 
