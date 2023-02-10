@@ -1,11 +1,40 @@
 .main {
   align-items: center;
   display: flex;
+  flex-direction: column;
   font-family: monospace, sans-serif;
   justify-content: center;
+  width: 40vw;
+  margin: auto;
 }
 
 .title {
   font-size: larger;
   font-weight: 600;
+}
+
+.quoteBody {
+  text-align: center;
+  border-radius: 23px;
+  border: 1px solid #000;
+  border-radius: 0.375rem;
+  background: #e0e0e0;
+  box-shadow: 8px 8px 16px #bebebe, -8px -8px 16px #ffffff;
+  margin: 12px 4px;
+  padding: 4px;
+  transition: all;
+  transition-duration: 500ms;
+}
+
+.tag {
+  font-weight: 600;
+}
+
+.author {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quoteBody:hover {
+  scale: 1.01;
 }
