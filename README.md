@@ -18,7 +18,7 @@ A ready-to-use starter template for building modern web applications with NextJS
 
    `git clone https://github.com/tmunongo/quotible-next.git`
 
-   `cd nextjs-graphql-prisma-starter`
+   `cd quotible-next`
 
 2. Install dependencies
 
